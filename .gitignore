@@ -1,0 +1,26 @@
+# --- Segurança e Credenciais ---
+# Nunca suba arquivos que contenham senhas ou chaves de API
+.env
+config.php
+db_config_local.php
+
+# --- Arquivos do Sistema Operacional ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Arquivos de Editores/IDEs ---
+.vscode/
+.idea/
+*.swp
+*.sublime-project
+*.sublime-workspace
+
+# --- Logs e Temporários ---
+*.log
+/temp/
+/logs/
+/uploads/
+
+# --- Dependências (se usar Composer futuramente) ---
+/vendor/
