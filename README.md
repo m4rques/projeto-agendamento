@@ -12,7 +12,7 @@ Sistema de agendamento de salas de reunião desenvolvido para otimizar a gestão
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **PHP 8.x** (Lógica de backend)
+- **PHP 8.5.2** (Lógica de backend)
 - **MySQL** (Banco de dados)
 - **Bootstrap 5** (Interface UI)
 - **PDO** (Camada de segurança para conexão com banco)
